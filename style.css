@@ -92,17 +92,17 @@ input:checked+label .description {
 }
 
 .card[for="c1"] {
-    background-image: url(./winter.jpg);
+    background-image: url(./img/winter.png);
 }
 
 .card[for="c2"] {
-    background-image: url(./digital.jpeg);
+    background-image: url(./img/digital.png);
 }
 
 .card[for="c3"] {
-    background-image: url(./Globalozation.jpg);
+    background-image: url(./img/globalozation.png);
 }
 
 .card[for="c4"] {
-    background-image: url(./new_technologies.jpg);
+    background-image: url(./img/new_technologies.png);
 }
